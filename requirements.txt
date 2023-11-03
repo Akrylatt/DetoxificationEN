@@ -1,0 +1,7 @@
+!pip install accelerate
+!pip install transformers
+!pip install semantic-text-similarity
+!pip install datasets transformers[sentencepiece] sacrebleu
+!pip install numpy==1.24.3
+!git clone https://github.com/unitaryai/detoxify
+!pip install detoxify
